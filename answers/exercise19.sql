@@ -1,1 +1,1 @@
-DELETE FROM Students WHERE Country IS 'Scotland';
+DELETE FROM Students WHERE Country = 'Scotland';
